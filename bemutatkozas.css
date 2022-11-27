@@ -1,0 +1,23 @@
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+td, th{
+    border: 1px solid;
+}
+#vissza{
+    margin: 65%;
+    color: black;
+}
+body{
+    background-color: beige;
+    color: black;
+    font-weight: bold;
+}
+a{
+    color: black;
+}
